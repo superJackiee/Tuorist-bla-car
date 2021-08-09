@@ -1,0 +1,24 @@
+$background:#F5F5F5;
+.footer{
+    height: 180px;
+    min-height: 180px;
+    background: $background;
+    h2{
+        font-family: Montserrat;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 27px;
+        letter-spacing: -0.3333333432674408px;
+        color: #000;
+    }
+    p{
+        font-family: Montserrat;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: -0.3333333432674408px;
+        color: #000;
+    }
+}
